@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="definition1">
+        Improvisasi dalam musik jazz membuat jazz mempunyai perbedaan yang kuat daripada musik lainnya. Musisi jazz berpendapat hanya dalam
+        musik jazz dapat melakukan improvisasi yang kaya dan tidak takut salah
+        sehingga membuat pemain jazz leluasa mengembangkan tema-tema yang
+        ada dalam berimprovisasi. Jazzer akan erat kaitannya dengan kreatifitas
+        dan spontanitas saat melakukan improvisasi. Berhubungan dengan itu,
+        musisi jazz tidak hanya melakukannya tanpa berpikir atau secara alami
+        hanya sesuai perasaan apa yang akan dimainkan, namun ada prinsip-
+        prinsip yang kuat didalamnya.
+    </string>
+    <string name="definition2">
+        Improviasi adalah usaha memperindah lagu dengan merubah atau
+        menambah sebagian melodi, tanpa merubah melodi pokok yang menjadi
+        dasar dari lagu tersebut. Melakukan improvisasi dituntut untuk tidak
+        serupa dengan improvisasi sebelumnya. Bahkan pada lagu yang sama
+        dimainkan pada hari yang sama juga harus terdengar berbeda. Tuntutan
+        kreatifitas yang tinggi terkadang menjadikan tidak realistis karena musisi
+        dituntut tidak hanya berbeda dengan musisi lainnya tapi berbeda dengan
+        dirinya sendiri.
+    </string>
+    <string name="definition3">
+        Dalam bernyanyi, improvisasi dapat dilakukan sering dan dengan teknik yang benar. 
+    </string>
+    <string name="definition4">
+        Vokalis harus mengerti akan unsur-unsur akord yang terkandung
+        pada suatu lagu. Tidak hanya unsur akord, vokalis pertama kali harus
+        berlatih crooning saat akan melakukan improvisasi. Crooning adalah
+        sebuah teknik bernyanyi ringan seperti berbicara. Crooning tidak dapat
+        dilakukan tanpa adanya swinging feel. Swinging Feel adalah suatu yang
+        personal yang dirasakan dan dilakukan oleh seorang penyanyi saat
+        menyanyikan lagu jazz. Terakhir yang tidak kalah penting adalah scat
+        singing. Scat Singing adalah sebuah teknik bernyanyi yang sulit dan
+        membutuhkan penyanyi dengan kemampuan menyanyikan melodi dan
+        ritme menggunakan suara sebagai medianya. Scat sing merupakan
+        pengucapan kata-kata yang tidak mempunyai arti sama sekali
+    </string>
+
+
+    <string name="profil">
+    Belajar di Jurusan Pendidikan Seni Musik, Fakultas Bahasa dan Seni, Universitas Negeri Yogyakarta pada tahun 2016. Selain menimba ilmu, Padina juga kerap menjadi guru vokal sekolah musik di Jogjakarta dan menjadi coach vocal group untuk beberapa kelompok vocal group. Selain kegiatannya di bidang musik, Padina juga mempunya bisnis kuliner makanan ringam Bola Ubi Harapan dan usaha catering Waroeng Mbok Mbul.
+    </string>
+
+    <string name="OK">OK</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="SETTING">SETTING</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">HIDE</string>
+    <string name="RETRY">RETRY</string>
+    <string name="TRY_AGAIN">TRY AGAIN</string>
+    <string name="DETAILS">DETAILS</string>
+    <string name="FAILED">FAILED</string>
+    <string name="TYPE_SEARCH">SEARCH</string>
+    <string name="NO_IMAGE">NO IMAGE</string>
+    <string name="DELETE">DELETE</string>
+    <string name="DISCARD">DISCARD</string>
+    <string name="AGREE">AGREE</string>
+    <string name="DISAGREE">DISAGREE</string>
+    <string name="OPEN">OPEN</string>
+    <string name="SAVE">SAVE</string>
+    <string name="NEXT">NEXT</string>
+    <string name="BACK">BACK</string>
+    <string name="SKIP">SKIP</string>
+
+</resources>
